@@ -36,6 +36,8 @@ Identify customers with the highest number of orders.
 🔹 8. Discounted Revenue Simulation
 Estimate the revenue impact of applying a discount to high-value orders.
 
+
+
 📊 Power BI Integration
 After SQL analysis, we visualized insights using Power BI to bring business clarity.
 
