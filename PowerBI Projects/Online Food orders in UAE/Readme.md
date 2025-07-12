@@ -12,6 +12,7 @@ Food item details with prices and quantities
 Delivery times, discount information (partially missing), and ratings
 Customer and restaurant information
 🧠 Key Business Questions Solved with SQL
+
 🔹 1. Top Selling Items
 Identify the most frequently ordered food items.
 
