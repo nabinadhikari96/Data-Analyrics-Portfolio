@@ -42,18 +42,13 @@ Estimate the revenue impact of applying a discount to high-value orders.
 After SQL analysis, we visualized insights using Power BI to bring business clarity.
 
 Key Power BI Actions
-Built a Date Table for time-based filtering
-
-Created DAX measures for revenue, discounts, and delivery time
+- Built a Date Table for time-based filtering
+- Created DAX measures for revenue, discounts, and delivery time
 
 Used slicers, KPIs, maps, and charts to visualize:
-
-Top-selling items
-
-Revenue trends
-
-City & restaurant performance
-
-Delivery partner efficiency
+- Top-selling items
+- Revenue trends
+- City & restaurant performance
+- Delivery partner efficiency
 
 🎯 Power BI turned raw data into interactive, decision-ready dashboards.
